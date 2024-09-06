@@ -6,9 +6,11 @@ On this profile, you can browse a mix of personal projects, work experiences, an
 
 
 <details>
-<summary>Connect</summary>
+<summary><b>Connect</b></summary>
 
-Insert your collapsible content here.
+- [LinkedIn](https://www.linkedin.com/in/linnforsman/) – The professional place. 
+- [Instagram](https://www.instagram.com/linnforsman/) – The more visual side. 
+- [Threads](https://www.threads.net/@linnforsman) – Threading progress, conversations and expertise.
 
 </details>
 
