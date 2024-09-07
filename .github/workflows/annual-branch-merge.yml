@@ -19,6 +19,6 @@ jobs:
           git config user.name "zakkcodes"
           git config user.email "zachary.stranger@proton.me"
           git checkout master
-          git merge --squash linnforsman-202X
+          git merge --squash origin/linnforsman-202X
           git commit -m "README UPDATE"
           git push origin master
